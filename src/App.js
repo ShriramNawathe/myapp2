@@ -6,8 +6,9 @@ import Contact from './screens/contact.js';
 function App() {
   return(
     <div>
-      {/* passing components from screens to app.js */}
+      {/* about getting function from components Title.js and Unorderedlist.js */}
       <About />
+      {/* screens contact.js */}
       <Contact />
     </div>
   );
